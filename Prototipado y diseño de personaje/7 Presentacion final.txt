@@ -1,0 +1,11 @@
+tenemos que pensar como presentar nuestro
+trabajo,
+creamos un archivo nuevo en formato orizontal
+al que añadiremos todo lo que querramos mostrar ,ejemplo
+añadimos nuestro pulished, nuestras pruebas de color
+incluimos poses claves e ilustracion añadimos
+un fondo que de dinamismo y por ultimo un cuadro de 
+informacion con el nombre del personaje, ponemos que tipo 
+de diseño es , en este caso Diseño de personaje, el nombre 
+del proyecto y nuestro nombre y la vercion del Diseño, en el 
+caso de que lo modifiquemos por feetback esta vecion aumentaria

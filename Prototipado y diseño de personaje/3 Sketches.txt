@@ -1,0 +1,22 @@
+Esta face es un poco mas demandante que la anterior
+
+Debemos utilizar mas de un personaje en esta face
+
+hacemos a el primer personaje elejido un poco mas grande
+y en una capa, ponemos la capa del personaje en el fondo
+cambiamos la opacidad de la capa y empesamos a dibujar 
+en la capa nueva encima del personaje, 
+utilizando nuestras referencias para el dibujo,
+podemos utilizar cualquier cosa de referencia, imagenes
+objetos o figuras reales, animales. 
+
+Para empezar a dibujar es muy recomendable utilizar 
+figuras geometricas, por ejmplo una esfera para el craneo,
+una piramide o triangulo par la madibula...
+no importa seguir a la perfeccion el Thumbnails 
+despues de todo es solo una gia.
+Tenemos que seguir las proporciones, cuantas cabesas de altura,
+para personajes realistas adultos unas 7 cabesas de altura
+
+debe de haber una gran mejora de la primera face a la segunda
+puede perder un poco de personalidad o carisma entre las faces
